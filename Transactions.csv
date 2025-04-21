@@ -1,0 +1,100 @@
+﻿City;Date;Receipt_id;Sale_Return;Client_id;Channel;Platform;Credit;SKU_id;Business;Brand;Category;Region;Revenue;Quantity;City_On_Off;Category_Ukr
+Kam'yanske;5/22/2023;22.05.2023-ЧDNZ7-0001;1;674537053;Retail; ;0;2194716;Accessories;Philips;Headphones;Dnipropetrovska;1098;1;Off+ON;Навушники
+Kam'yanske;4/13/2024;13.04.2024-Ч002003-0003;1;679873829;Retail; ;0;1603317;Large household appliances;Samsung;Air conditioner;Dnipropetrovska;18299;1;Off+ON;Кондиціонер
+Kam'yanske;5/19/2024;19.05.2024-Ч002002-0041;1;975843714;Retail; ;0;1016249;Accessories;Slon;Accessories for traditional vacuum cleaners;Dnipropetrovska;318;2;Off+ON;Аксесуари для традиційного пилососа
+Kam'yanske;5/16/2024;16.05.2024-Ч002001-0079;1;973446093;Retail; ;0;2268919;Entertainment and Computer equipment;Lenovo;Tablet computer;Dnipropetrovska;11998;1;Off+ON;Планшетний комп'ютер
+Kam'yanske;5/27/2023;27.05.2023-ЧDNZ2-0131;1;671186761;Retail; ;0;1786301;COMFY HOME;Finish;Dishwasher tablet;Dnipropetrovska;287;1;Off+ON;Таблетка для посудомийної машини
+Kam'yanske;6/24/2023;24.06.2023-ЧDNZ7-0003;1;988587422;Retail; ;0;1913004;Accessories;Comfy;Package;Dnipropetrovska;1;1;Off+ON;Пакет
+Kam'yanske;3/28/2024;28.03.2024-Ч002001-0059;1;934680364;Retail; ;0;1550702;Business not specified;Vodafone;Starter packs;Dnipropetrovska;1;1;Off+ON;Стартові пакети
+Kam'yanske;8/18/2024;18.08.2024-Ч002017-0033;1;502317079;Retail; ;0;2983215;Innovations and Telecom;Huawei;Smart watch and fitness bracelet;Dnipropetrovska;1799;1;Off+ON;Смарт-годинник та фітнес-браслет
+Kam'yanske;3/12/2025;12.03.2025-Ч002019-0014;1;671692234;Retail; ;1;2739997;Large household appliances;Gorenje;Refrigerator;Dnipropetrovska;18999;1;Off+ON;Холодильник
+Kam'yanske;9/7/2024;07.09.2024-Ч002002-0124;1;730282876;Retail; ;0;1603317;Large household appliances;Samsung;Air conditioner;Dnipropetrovska;17384;1;Off+ON;Кондиціонер
+Kam'yanske;9/18/2024;18.09.2024-П002002-0008;0;635805339;Retail; ;0;2644845;Accessories;Pixus;Headphones;Dnipropetrovska;-599;-1;Off+ON;Навушники
+Kam'yanske;5/21/2023;21.05.2023-ЧDNZ2-0039;1;973601246;Retail; ;0;1786301;COMFY HOME;Finish;Dishwasher tablet;Dnipropetrovska;289;1;Off+ON;Таблетка для посудомийної машини
+Kam'yanske;1/24/2023;24.01.2023-ЧDNZ2-0022;1;963843700;Retail; ;0;1501603;Client services;-;HappyService;Dnipropetrovska;360;1;Off+ON;ХеппіСервіс
+Kam'yanske;4/28/2024;28.04.2024-Ч002001-0058;1;971451778;Retail; ;0;2628319;Innovations and Telecom;Apple;Smart watch and fitness bracelet;Dnipropetrovska;11699;1;Off+ON;Смарт-годинник та фітнес-браслет
+Kam'yanske;6/12/2024;12.06.2024-Ч002017-0005;1;978801114;Retail; ;0;1550702;Business not specified;Vodafone;Starter packs;Dnipropetrovska;1;1;Off+ON;Стартові пакети
+Kam'yanske;11/20/2023;20.11.2023-Ч002003-0072;1;987304363;Retail; ;0;1677820;COMFY HOME;WASH & FREE;Washing gel;Dnipropetrovska;168;1;Off+ON;Гель для прання
+Kam'yanske;1/8/2024;08.01.2024-Ч002002-0012;1;967891153;Retail; ;0;1640495;Small household appliances;Braun;Razor;Dnipropetrovska;2099;1;Off+ON;Бритва
+Kam'yanske;4/28/2024;28.04.2024-Ч002001-0043;1;960025958;Retail; ;0;2540473;Innovations and Telecom;Xiaomi;Smart watch and fitness bracelet;Dnipropetrovska;1599;1;Off+ON;Смарт-годинник та фітнес-браслет
+Kam'yanske;11/12/2024;12.11.2024-Ч002002-0046;1;667471396;Retail; ;1;2842467;Accessories;MAKE;Mobile protective glass devices;Dnipropetrovska;299;1;Off+ON;Скло захисне для мобільного пристрою
+Kam'yanske;7/20/2023;20.07.2023-ЧDNZ2-0042;1;939434996;Retail; ;0;1640495;Small household appliances;Braun;Razor;Dnipropetrovska;2299;1;Off+ON;Бритва
+Kam'yanske;5/11/2024;11.05.2024-Ч002002-0009;1;930350934;Retail; ;0;2340936;Accessories;Nescafe;Coffee;Dnipropetrovska;239;1;Off+ON;Кава
+Kam'yanske;2/19/2024;19.02.2024-Ч002003-0046;1;985619224;Retail; ;0;2575774;Accessories;Logan;TV mount;Dnipropetrovska;2999;1;Off+ON;Кріплення для телевізора
+Kam'yanske;12/31/2024;31.12.2024-Ч002019-0194;1;507564084;Retail; ;0;1030935;Small household appliances;Magio;Coffee grinder;Dnipropetrovska;789;1;Off+ON;Кавомолка
+Kam'yanske;7/9/2023;09.07.2023-ЧDNZ1-0042;1;671610941;Retail; ;0;1913002;Accessories;Comfy;Package;Dnipropetrovska;3;1;Off+ON;Пакет
+Kam'yanske;6/21/2024;21.06.2024-Ч002002-0095;1;660398277;Retail; ;0;1678552;Accessories;Apple;With/device for mobile device;Dnipropetrovska;998;1;Off+ON;З/пристрій для мобільного пристрою
+Kam'yanske;10/17/2023;17.10.2023-ЧDNZ2-0064;1;968752940;Retail; ;0;2486433;Client services;-;HappyService to DP technics;Dnipropetrovska;500;1;Off+ON;ХеппіСервіс до ДП техніки
+Kam'yanske;5/15/2023;15.05.2023-ЧDNZ2-0014;1;687895634;Retail; ;0;1640495;Small household appliances;Braun;Razor;Dnipropetrovska;2298;1;Off+ON;Бритва
+Kam'yanske;12/27/2023;27.12.2023-Ч002002-0049;1;671000015;Retail; ;0;2724015;Entertainment and Computer equipment;HP;Laptop;Dnipropetrovska;25364;1;Off+ON;Ноутбук
+Kam'yanske;4/19/2023;19.04.2023-ЧDNZ3-0005;1;669574080;Retail; ;0;1043666;Client services;-;Smartphone/tablet services;Dnipropetrovska;99;1;Off+ON;Сервіси до смартфонів/планшетів
+Kam'yanske;12/24/2023;24.12.2023-Ч002001-0115;1;955396704;Retail; ;0;2340939;Accessories;Nescafe;Coffee;Dnipropetrovska;239;1;Off+ON;Кава
+Kam'yanske;12/30/2024;30.12.2024-Ч002001-0027;1;665444083;Retail; ;0;1015502;Accessories;Gembird;Computer mouse;Dnipropetrovska;159;1;Off+ON;Миша комп'ютерна
+Kam'yanske;11/30/2024;30.11.2024-Ч002019-0033;1;963576963;Retail; ;0;925452;Small household appliances;Philips;Hair clipper;Dnipropetrovska;1499;1;Off+ON;Машинка для стрижки волосся
+Kam'yanske;11/3/2023;03.11.2023-Ч002001-0062;1;638381772;Retail; ;0;1462857;Small household appliances;Tefal;Juice squeezer;Dnipropetrovska;5798;1;Off+ON;Соковитискач
+Kam'yanske;1/31/2024;31.01.2024-Ч002001-0017;1;962804495;Retail; ;1;2486439;Client services;-;HappyService to DP technics;Dnipropetrovska;330;1;Off+ON;ХеппіСервіс до ДП техніки
+Kam'yanske;3/10/2024;10.03.2024-Ч002001-0084;1;974609072;Retail; ;1;2601137;Innovations and Telecom;Apple;Smartphone;Dnipropetrovska;59999;1;Off+ON;Смартфон
+Kam'yanske;10/6/2024;06.10.2024-Ч002002-0097;1;979352501;Retail; ;0;2981833;Small household appliances;Daewoo;Microwave oven;Dnipropetrovska;3099;1;Off+ON;Мікрохвильова піч
+Kam'yanske;11/28/2024;28.11.2024-Ч002019-0136;1;981775047;Retail; ;0;2789149;Accessories;MAKE;Mobile protective glass devices;Dnipropetrovska;245;1;Off+ON;Скло захисне для мобільного пристрою
+Kam'yanske;10/24/2023;24.10.2023-Ч002001-0118;1;679567636;Retail; ;0;2393720;Accessories;MAKE;Cover for mobile device;Dnipropetrovska;449;1;Off+ON;Чохол для мобільного пристрою
+Kam'yanske;12/3/2023;03.12.2023-Ч002002-0021;1;956169145;Retail; ;0;1550702;Business not specified;Vodafone;Starter packs;Dnipropetrovska;1;1;Off+ON;Стартові пакети
+Kam'yanske;8/1/2024;01.08.2024-Ч002002-0029;1;974923326;Retail; ;0;1462857;Small household appliances;Tefal;Juice squeezer;Dnipropetrovska;6499;1;Off+ON;Соковитискач
+Kam'yanske;3/24/2024;24.03.2024-Ч002001-0078;1;969609928;Retail; ;1;2644845;Accessories;Pixus;Headphones;Dnipropetrovska;515;1;Off+ON;Навушники
+Kam'yanske;12/31/2024;31.12.2024-Ч002001-0004;1;671000015;Retail; ;0;1820876;COMFY HOME;Tefal;Kitchen knife;Dnipropetrovska;511;1;Off+ON;Ніж кухонний
+Kam'yanske;10/5/2023;05.10.2023-ЧDNZ2-0003;1;679429420;Retail; ;0;2486423;Client services;-;HappyService to Accessories; ; ; ; ;ХеппіСервіс до Аксесуарів
+Kam'yanske;10/4/2024;04.10.2024-Ч002001-0035;1;674378630;Retail; ;0;2789149;Accessories;MAKE;Mobile protective glass devices;Dnipropetrovska;245;1;Off+ON;Скло захисне для мобільного пристрою
+Kam'yanske;8/12/2024;12.08.2024-Ч002002-0074;1;682419822;Retail; ;0;1960222;Accessories;Samsung;Cable for portable device;Dnipropetrovska;799;1;Off+ON;Кабель для портативного пристрою
+Kam'yanske;3/31/2023;31.03.2023-ЧDNZ2-0084;1;972687439;Retail; ;0;1756005;COMFY HOME;Luminarc;Storage container;Dnipropetrovska;398;1;Off+ON;Ємність для зберігання
+Kam'yanske;11/26/2023;26.11.2023-Ч002003-0060;1;962106482;Retail; ;0;2268919;Entertainment and Computer equipment;Lenovo;Tablet computer;Dnipropetrovska;11998;1;Off+ON;Планшетний комп'ютер
+Kam'yanske;9/17/2024;17.09.2024-Ч002001-0039;1;635805339;Retail; ;0;2644845;Accessories;Pixus;Headphones;Dnipropetrovska;599;1;Off+ON;Навушники
+Kam'yanske;7/20/2024;20.07.2024-Ч002002-0037;1;677507357;Retail; ;0;2981833;Small household appliances;Daewoo;Microwave oven;Dnipropetrovska;3099;1;Off+ON;Мікрохвильова піч
+Kam'yanske;3/14/2024;14.03.2024-Ч002002-0019;1;665327940;Retail; ;0;1732832;COMFY HOME;Tefal;Frying pan;Dnipropetrovska;1039;1;Off+ON;Сковорода
+Kam'yanske;7/7/2024;07.07.2024-Ч002001-0013;1;961550219;Retail; ;1;1844449;Innovations and Telecom;Apple;Smartphone;Dnipropetrovska;27999;1;Off+ON;Смартфон
+Kam'yanske;2/6/2024;06.02.2024-Ч002002-0040;1;961915421;Retail; ;0;1961324;COMFY HOME;Tefal;Set of dishes;Dnipropetrovska;4598;1;Off+ON;Набір посуду
+Kam'yanske;4/10/2023;10.04.2023-ЧDNZ2-0028;1;679762619;Retail; ;0;2340939;Accessories;Nescafe;Coffee;Dnipropetrovska;458;2;Off+ON;Кава
+Kam'yanske;2/21/2024;21.02.2024-Ч002003-0049;1;637156971;Retail; ;0;7139;Promotional services;Comfy;Paid delivery;Dnipropetrovska;399;1;Off+ON;Доставка платна
+Kam'yanske;5/16/2023;16.05.2023-ЧDNZ2-0034;1;676103335;Retail; ;1;2349098;Innovations and Telecom;Poco;Smartphone;Dnipropetrovska;13997;1;Off+ON;Смартфон
+Kam'yanske;8/19/2023;19.08.2023-ЧDNZ3-0008;1;982139942;Retail; ;0;2268919;Entertainment and Computer equipment;Lenovo;Tablet computer;Dnipropetrovska;11399;1;Off+ON;Планшетний комп'ютер
+Kam'yanske;4/17/2023;17.04.2023-ЧDNZ1-0081;1;982413701;Retail; ;0;1728013;Large household appliances;Gorenje;Washing machine;Dnipropetrovska;10998;1;Off+ON;Пральна машина
+Kam'yanske;3/16/2023;16.03.2023-ЧDNZ3-0055;1;981734646;Retail; ;0;1118273;COMFY HOME;Vanish;Stain remover;Dnipropetrovska;149;1;Off+ON;Засіб для видалення плям
+Kam'yanske;7/7/2023;07.07.2023-ЧDNZ1-0075;1;976214867;Retail; ;1;1603317;Large household appliances;Samsung;Air conditioner;Dnipropetrovska;17499;1;Off+ON;Кондиціонер
+Kam'yanske;6/30/2023;30.06.2023-ЧDNZ2-0016;1;980388847;Retail; ;0;1913004;Accessories;Comfy;Package;Dnipropetrovska;1;1;Off+ON;Пакет
+Kam'yanske;11/27/2024;27.11.2024-Ч002001-0079;1;965159544;Retail; ;1;3120629;Audio-video equipment;Xiaomi;Television;Dnipropetrovska;15999;1;Off+ON;Телевізор
+Kam'yanske;1/24/2023;24.01.2023-ЧDNZ1-0026;1;635946965;Retail; ;0;1675226;Accessories;Kingston;USB flash drive;Dnipropetrovska;179;1;Off+ON;Флеш USB
+Kam'yanske;11/13/2023;13.11.2023-Ч002002-0090;1;976879086;Retail; ;0;1208293;Small household appliances;Grunhelm;Electric kettle;Dnipropetrovska;259;1;Off+ON;Чайник електричний
+Kam'yanske;9/7/2023;07.09.2023-ЧDNZ2-0020;1;689241200;Retail; ;0;1114847;Accessories;Logan;TV mount;Dnipropetrovska;649;1;Off+ON;Кріплення для телевізора
+Kam'yanske;5/4/2024;04.05.2024-Ч002001-0051;1;679543044;Retail; ;1;2781898;Innovations and Telecom;Xiaomi;Smartphone;Dnipropetrovska;5999;1;Off+ON;Смартфон
+Kam'yanske;5/23/2023;23.05.2023-ЧDNZ2-0067;1;673278738;Retail; ;1;2349098;Innovations and Telecom;Poco;Smartphone;Dnipropetrovska;13997;1;Off+ON;Смартфон
+Kam'yanske;2/10/2023;10.02.2023-ЧDNZ2-0063;1;680950133;Retail; ;0;1704718;Large household appliances;Gorenje;Hob surface;Dnipropetrovska;6999;1;Off+ON;Варильна поверхня
+Kam'yanske;12/28/2024;28.12.2024-Ч002019-0104;1;689568792;Retail; ;0;3167119;Small household appliances;Philips;Irons and ironing systems;Dnipropetrovska;998;1;Off+ON;Праски та прасувальні системи
+Kam'yanske;12/28/2024;28.12.2024-Ч002019-0030;1;677546360;Retail; ;0;1603317;Large household appliances;Samsung;Air conditioner;Dnipropetrovska;18420;1;Off+ON;Кондиціонер
+Kam'yanske;10/6/2024;06.10.2024-Ч002002-0125;1;631161602;Retail; ;0;2106626;Accessories;Intaleo;Cable for portable device;Dnipropetrovska;199;1;Off+ON;Кабель для портативного пристрою
+Kam'yanske;9/11/2024;11.09.2024-Ч002002-0029;1;964232929;Retail; ;0;1007948;Energy equipment;Gemix;Voltage stabilizer;Dnipropetrovska;1199;1;Off+ON;Стабілізатор напруги
+Kam'yanske;10/7/2024;07.10.2024-Ч002001-0026;1;970105300;Retail; ;0;1297048;Small household appliances;Gorenje;Electric kettle;Dnipropetrovska;498;1;Off+ON;Чайник електричний
+Kam'yanske;9/9/2023;09.09.2023-ЧDNZ2-0045;1;505433532;Retail; ;0;1622087;Small household appliances;Deerma;Hand vacuum cleaner;Dnipropetrovska;1599;1;Off+ON;Пилосос ручний
+Kam'yanske;8/14/2024;14.08.2024-Ч002002-0099;1;975299551;Retail; ;1;2393720;Accessories;MAKE;Cover for mobile device;Dnipropetrovska;449;1;Off+ON;Чохол для мобільного пристрою
+Kam'yanske;4/30/2023;30.04.2023-ЧDNZ2-0022;1;984731328;Retail; ;1;1936003;Accessories;MakeFuture;Cover for mobile device;Dnipropetrovska;299;1;Off+ON;Чохол для мобільного пристрою
+Kam'yanske;12/2/2024;02.12.2024-Ч002001-0068;1;986325766;Retail; ;1;1284159;Small household appliances;Tefal;Coffee maker;Dnipropetrovska;2499;1;Off+ON;Кавоварка
+Kam'yanske;5/18/2023;18.05.2023-ЧDNZ2-0078;1;636054118;Retail; ;0;1913004;Accessories;Comfy;Package;Dnipropetrovska;1;1;Off+ON;Пакет
+Kam'yanske;12/24/2023;24.12.2023-Ч002003-0142;1;687119675;Retail; ;0;1343645;Accessories;Panasonic;Headphones;Dnipropetrovska;349;1;Off+ON;Навушники
+Kam'yanske;10/6/2024;06.10.2024-П002002-0001;0;979352501;Retail; ;0;2981833;Small household appliances;Daewoo;Microwave oven;Dnipropetrovska;-3099;-1;Off+ON;Мікрохвильова піч
+Kam'yanske;9/29/2023;29.09.2023-ЧDNZ3-0063;1;683627153;Retail; ;0;1678552;Accessories;Apple;With/device for mobile device;Dnipropetrovska;998;1;Off+ON;З/пристрій для мобільного пристрою
+Kam'yanske;6/17/2023;17.06.2023-ЧDNZ3-0062;1;669074365;Retail; ;0;7139;Promotional services;Comfy;Paid delivery;Dnipropetrovska;1;1;Off+ON;Доставка платна
+Kam'yanske;11/18/2023;18.11.2023-Ч002001-0004;1;991182870;Retail; ;0;1739500;COMFY HOME;Cif;All-purpose cleaner;Dnipropetrovska;88;1;Off+ON;Засіб для чищення універсальний
+Kam'yanske;10/19/2024;19.10.2024-Ч002003-0002;1;955375356;Retail; ;0;2190256;COMFY HOME;Friendly;Washing gel;Dnipropetrovska;118;1;Off+ON;Гель для прання
+Kam'yanske;12/31/2023;31.12.2023-Ч002001-0085;1;987113103;Retail; ;0;911592;COMFY HOME;Tefal;Kitchen tongs;Dnipropetrovska;199;1;Off+ON;Щипці кухонні
+Kam'yanske;6/20/2023;20.06.2023-ЧDNZ2-0037;1;953629137;Retail; ;0;1150640;Accessories;Colorway;Screen cleaner;Dnipropetrovska;218;1;Off+ON;Засіб для чищення екранів
+Kam'yanske;5/17/2024;17.05.2024-Ч002003-0007;1;974495042;Retail; ;1;2983269;Accessories;OPPO;Cover for mobile device;Dnipropetrovska;599;1;Off+ON;Чохол для мобільного пристрою
+Kam'yanske;11/13/2024;13.11.2024-Ч002002-0004;1;672631547;Retail; ;0;5020;Client services;Comfy;Gift card;Dnipropetrovska;0;0;Off+ON;Подарункова карта
+Kam'yanske;2/14/2024;14.02.2024-Ч002001-0070;1;683387704;Retail; ;0;2715664;Accessories;Comfy;Package;Dnipropetrovska;7;1;Off+ON;Пакет
+Kam'yanske;3/30/2023;30.03.2023-ЧDNZ2-0104;1;673972489;Retail; ;0;2321248;Innovations and Telecom;OPPO;Smartphone;Dnipropetrovska;4999;1;Off+ON;Смартфон
+Kam'yanske;11/10/2023;10.11.2023-Ч002003-0009;1;932613643;Retail; ;0;1849602;Small household appliances;Philips;Irons and ironing systems;Dnipropetrovska;1399;1;Off+ON;Праски та прасувальні системи
+Kam'yanske;8/25/2024;25.08.2024-Ч002001-0049;1;509943807;Retail; ;0;2789149;Accessories;MAKE;Mobile protective glass devices;Dnipropetrovska;299;1;Off+ON;Скло захисне для мобільного пристрою
+Kam'yanske;5/9/2023;09.05.2023-ЧDNZ1-0066;1;672402430;Retail; ;0;2053217;Small household appliances;Tefal;Irons and ironing systems;Dnipropetrovska;998;1;Off+ON;Праски та прасувальні системи
+Kam'yanske;6/22/2023;22.06.2023-ЧDNZ2-0056;1;980388847;Retail; ;0;1913004;Accessories;Comfy;Package;Dnipropetrovska;1;1;Off+ON;Пакет
+Kam'yanske;5/20/2023;20.05.2023-ЧDNZ3-0022;1;664692563;Retail; ;0;2053217;Small household appliances;Tefal;Irons and ironing systems;Dnipropetrovska;996;1;Off+ON;Праски та прасувальні системи
+Kam'yanske;12/2/2023;02.12.2023-Ч002003-0060;1;988103454;Retail; ;0;2204287;Accessories;Fifine;Computer microphone;Dnipropetrovska;1799;1;Off+ON;Мікрофон для комп'ютера
+Kam'yanske;1/19/2025;19.01.2025-Ч002020-0011;1;687961947;Retail; ;0;2842467;Accessories;MAKE;Mobile protective glass devices;Dnipropetrovska;299;1;Off+ON;Скло захисне для мобільного пристрою
+Kam'yanske;4/10/2023;10.04.2023-ЧDNZ1-0061;1;974440724;Retail; ;1;1627263;Innovations and Telecom;Xiaomi;Smartphone;Dnipropetrovska;4699;1;Off+ON;Смартфон
+Kam'yanske;12/13/2024;13.12.2024-Ч002020-0031;1;671656972;Retail; ;1;3169323;Accessories;MAKE;Mobile protective glass devices;Dnipropetrovska;299;1;Off+ON;Скло захисне для мобільного пристрою
+Kam'yanske;6/27/2024;27.06.2024-Ч002002-0041;1;672656920;Retail; ;0;2540473;Innovations and Telecom;Xiaomi;Smart watch and fitness bracelet;Dnipropetrovska;1599;1;Off+ON;Смарт-годинник та фітнес-браслет
